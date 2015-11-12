@@ -1,5 +1,0 @@
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,matrix\Task 4,matrix\bin\Debug\Task 4,matrix.exe.config
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,matrix\Task 4,matrix\bin\Debug\Task 4,matrix.exe
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,matrix\Task 4,matrix\bin\Debug\Task 4,matrix.pdb
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,matrix\Task 4,matrix\obj\Debug\Task 4,matrix.exe
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,matrix\Task 4,matrix\obj\Debug\Task 4,matrix.pdb
