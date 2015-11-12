@@ -1,6 +1,0 @@
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\bin\Debug\Task 1 - matrix.exe.config
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\obj\Debug\Task 1 - matrix.csprojResolveAssemblyReference.cache
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\bin\Debug\Task 1 - matrix.exe
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\bin\Debug\Task 1 - matrix.pdb
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\obj\Debug\Task 1 - matrix.exe
-C:\Users\Kristina\Desktop\HW 7 ,8\Task 1 - matrix\Task 1 - matrix\obj\Debug\Task 1 - matrix.pdb
