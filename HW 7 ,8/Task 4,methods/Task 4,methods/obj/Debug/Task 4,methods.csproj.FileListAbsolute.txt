@@ -1,0 +1,5 @@
+C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,methods\Task 4,methods\bin\Debug\Task 4,methods.exe.config
+C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,methods\Task 4,methods\bin\Debug\Task 4,methods.exe
+C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,methods\Task 4,methods\bin\Debug\Task 4,methods.pdb
+C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,methods\Task 4,methods\obj\Debug\Task 4,methods.exe
+C:\Users\Kristina\Desktop\HW 7 ,8\Task 4,methods\Task 4,methods\obj\Debug\Task 4,methods.pdb

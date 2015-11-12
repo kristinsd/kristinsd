@@ -1,0 +1,9 @@
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Kristina\Desktop\dggf\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\Github\kristinsd\HW\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Github\kristinsd\HW\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Github\kristinsd\HW\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

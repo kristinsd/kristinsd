@@ -1,0 +1,6 @@
+D:\Github\kristinsd\HW\Task4\Task4\bin\Debug\Task4.exe.config
+D:\Github\kristinsd\HW\Task4\Task4\bin\Debug\Task4.exe
+D:\Github\kristinsd\HW\Task4\Task4\bin\Debug\Task4.pdb
+D:\Github\kristinsd\HW\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\Github\kristinsd\HW\Task4\Task4\obj\Debug\Task4.exe
+D:\Github\kristinsd\HW\Task4\Task4\obj\Debug\Task4.pdb

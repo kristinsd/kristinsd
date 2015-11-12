@@ -1,0 +1,6 @@
+D:\Github\kristinsd\HW\Task9\Task9\bin\Debug\Task9.exe.config
+D:\Github\kristinsd\HW\Task9\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+D:\Github\kristinsd\HW\Task9\Task9\bin\Debug\Task9.exe
+D:\Github\kristinsd\HW\Task9\Task9\bin\Debug\Task9.pdb
+D:\Github\kristinsd\HW\Task9\Task9\obj\Debug\Task9.exe
+D:\Github\kristinsd\HW\Task9\Task9\obj\Debug\Task9.pdb

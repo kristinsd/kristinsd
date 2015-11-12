@@ -1,0 +1,2 @@
+D:\Github\kristinsd\Homework 1\Homework 2\src\Homework 2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Github\kristinsd\Homework 1\Homework 2\src\Homework 2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
